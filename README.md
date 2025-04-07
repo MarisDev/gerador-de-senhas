@@ -16,3 +16,17 @@ Ele permite ao usuário:
 
 
 ![imagemdoprojeto](https://github.com/user-attachments/assets/99f9465c-944d-49a3-b7a2-40f4eabd1a15))
+##
+
+📌 Aprendizados
+Durante este projeto, foram praticados:
+ 
+- Organização de código em funções.
+
+- Manipulação de variáveis booleanas com Tkinter.
+
+- Uso de estruturas condicionais e tratamento de erros.
+
+- Desenvolvimento visual básico com Tkinter.
+
+por: Maristela Machado
